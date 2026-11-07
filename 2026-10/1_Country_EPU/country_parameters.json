@@ -1,0 +1,954 @@
+{
+  "Algeria": {
+    "keep_sites": [
+      "Algrie 360",
+      "El Watan",
+      "La Nouvelle Republique",
+      "La Patrie News",
+      "Le Matin dAlgrie"
+    ],
+    "sigma_i": {
+      "Algrie 360": 0.00739068035673407,
+      "El Watan": 0.009261162304571456,
+      "La Nouvelle Republique": 0.010209901265391556,
+      "La Patrie News": 0.01818822411541707,
+      "Le Matin dAlgrie": 0.13074824497878093
+    },
+    "mu": 1.2505174027918036,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Angola": {
+    "keep_sites": [
+      "Correio da Kianda",
+      "Maka Angola",
+      "Mercado",
+      "Portal de Angola",
+      "Rede Angola"
+    ],
+    "sigma_i": {
+      "Correio da Kianda": 0.009786427556726535,
+      "Maka Angola": 0.14294185384984268,
+      "Mercado": 0.039476006522575144,
+      "Portal de Angola": 0.024811524149589172,
+      "Rede Angola": 0.00997516885549924
+    },
+    "mu": 1.618106702590931,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Benin": {
+    "keep_sites": [
+      "L'Evnement Prcis",
+      "La Nouvelle Tribune",
+      "Le Bninois Libr",
+      "Le Matinal",
+      "Les 4 Vrits"
+    ],
+    "sigma_i": {
+      "L'Evnement Prcis": 0.008239866105050269,
+      "La Nouvelle Tribune": 0.0020500260874770746,
+      "Le Bninois Libr": 0.0026809104875840433,
+      "Le Matinal": 0.002814354502705657,
+      "Les 4 Vrits": 0.008026587178701862
+    },
+    "mu": 0.6703242699542789,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Botswana": {
+    "keep_sites": [
+      "Botswana Business News",
+      "Botswana Gazette",
+      "Sunday Standard",
+      "The Voice"
+    ],
+    "sigma_i": {
+      "Botswana Business News": 0.20115726359450678,
+      "Botswana Gazette": 0.026431705765557176,
+      "Sunday Standard": 0.037298974357780464,
+      "The Voice": 0.01248762118602247
+    },
+    "mu": 1.6421001205540295,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Burkina-Faso": {
+    "keep_sites": [
+      "Burkina24",
+      "Faso7",
+      "L'conomiste du Faso",
+      "NetAfrique",
+      "Wakat Sra"
+    ],
+    "sigma_i": {
+      "Burkina24": 0.003892566067354116,
+      "Faso7": 0.0035794500194377176,
+      "L'conomiste du Faso": 0.023318636135924047,
+      "NetAfrique": 0.08931414979057804,
+      "Wakat Sra": 0.004644341591110985
+    },
+    "mu": 0.6807873960967786,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Burundi": {
+    "keep_sites": [
+      "Burundi Eco",
+      "Burundi Times",
+      "Iwacu Burundi",
+      "Jimbere",
+      "Le Renouveau du Burundi"
+    ],
+    "sigma_i": {
+      "Burundi Eco": 0.020268981697686775,
+      "Burundi Times": 0.056686353162673536,
+      "Iwacu Burundi": 0.012622475340227608,
+      "Jimbere": 0.034614755062472025,
+      "Le Renouveau du Burundi": 0.004883275075148635
+    },
+    "mu": 0.43304602392253333,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Cameroon": {
+    "keep_sites": [
+      "237online",
+      "Actu Cameroun",
+      "Cameroon Concord News",
+      "Cameroon Intelligence Report",
+      "News du Cameroun"
+    ],
+    "sigma_i": {
+      "237online": 0.004971781031882734,
+      "Actu Cameroun": 0.0017098174455686772,
+      "Cameroon Concord News": 0.008021910250053802,
+      "Cameroon Intelligence Report": 0.007101610178628191,
+      "News du Cameroun": 0.01768703725449511
+    },
+    "mu": 0.7604790501741174,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Cape Verde": {
+    "keep_sites": [
+      "A Nao",
+      "Balai CV",
+      "Mindel Insite",
+      "Noticias do Norte",
+      "Tiver"
+    ],
+    "sigma_i": {
+      "A Nao": 0.0062671573176133555,
+      "Balai CV": 0.009117063697758132,
+      "Mindel Insite": 0.007464414033465119,
+      "Noticias do Norte": 0.010357592845519108,
+      "Tiver": 0.003900276170104531
+    },
+    "mu": 1.0125100916544303,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Central African Republic": {
+    "keep_sites": [
+      "Corbeau News Centrafrique",
+      "Journal de Bangui",
+      "Radio Ndeke Luka (News Section)"
+    ],
+    "sigma_i": {
+      "Corbeau News Centrafrique": 0.051676014165403364,
+      "Journal de Bangui": 0.04098767062520276,
+      "Radio Ndeke Luka (News Section)": 0.028296957936048493
+    },
+    "mu": 1.2670621088685863,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Chad": {
+    "keep_sites": [
+      "Journal du Tchad",
+      "Le Pays",
+      "Tchadinfos"
+    ],
+    "sigma_i": {
+      "Journal du Tchad": 0.00755609633585528,
+      "Le Pays": 0.010054031186432827,
+      "Tchadinfos": 0.002197401060185563
+    },
+    "mu": 0.7414017668110975,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Comoros": {
+    "keep_sites": [
+      "Comores Infos"
+    ],
+    "sigma_i": {
+      "Comores Infos": 0.005429966681033255
+    },
+    "mu": 0.6778254703116661,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Congo": {
+    "keep_sites": [
+      "Journal de Brazza",
+      "La Semaine Africaine"
+    ],
+    "sigma_i": {
+      "Journal de Brazza": 0.012520227893479341,
+      "La Semaine Africaine": 0.012091902385308821
+    },
+    "mu": 1.0591172980860737,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Congo DRC": {
+    "keep_sites": [
+      "Africa News RDC",
+      "Cap Sud",
+      "Congo Indpendant",
+      "Congo Profond",
+      "La Prosperite",
+      "Le Maximum",
+      "Matin Infos",
+      "Zoom Eco"
+    ],
+    "sigma_i": {
+      "Africa News RDC": 0.030622297516697046,
+      "Cap Sud": 0.025904875115051695,
+      "Congo Indpendant": 0.11913556730942247,
+      "Congo Profond": 0.1014537317607853,
+      "La Prosperite": 0.007220274174089438,
+      "Le Maximum": 0.039000102385636726,
+      "Matin Infos": 0.03822835424278952,
+      "Zoom Eco": 0.09604908783873516
+    },
+    "mu": 0.9398376010502779,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Djibouti": {
+    "keep_sites": [
+      "Djibouti Live",
+      "HCH24 Horn Africa",
+      "La Nation Djibouti"
+    ],
+    "sigma_i": {
+      "Djibouti Live": 0.05458760190470237,
+      "HCH24 Horn Africa": 0.06493158609818431,
+      "La Nation Djibouti": 0.011398707607675447
+    },
+    "mu": 0.6606619501651023,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Egypt": {
+    "keep_sites": [
+      "360  Masr 360",
+      "Egypt Independent",
+      "Egyptian Gazette"
+    ],
+    "sigma_i": {
+      "360  Masr 360": 0.03576678383575438,
+      "Egypt Independent": 0.007462884297513436,
+      "Egyptian Gazette": 0.0037296801943289158
+    },
+    "mu": 1.6783076552043819,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Equatorial Guinea": {
+    "keep_sites": [
+      "AhoraEG",
+      "Real Equatorial Guinea"
+    ],
+    "sigma_i": {
+      "AhoraEG": 0.021855959358588743,
+      "Real Equatorial Guinea": 0.023645191788014927
+    },
+    "mu": 1.41974050669557,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Eritrea": {
+    "keep_sites": [
+      "Awate",
+      "Eriteria Focus",
+      "Eritrea Live",
+      "Shabait"
+    ],
+    "sigma_i": {
+      "Awate": 0.10792351375800724,
+      "Eriteria Focus": 0.18870538327180647,
+      "Eritrea Live": 0.1546153964593448,
+      "Shabait": 0.019198936224776773
+    },
+    "mu": 0.8284715566360844,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Eswatini": {
+    "keep_sites": [
+      "Independent News (Eswatini)",
+      "Swazi Daily News",
+      "Times of Eswatini"
+    ],
+    "sigma_i": {
+      "Independent News (Eswatini)": 0.040131095774851674,
+      "Swazi Daily News": 0.018585315896275535,
+      "Times of Eswatini": 0.011467049813723677
+    },
+    "mu": 0.9502537005565177,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Ethiopia": {
+    "keep_sites": [
+      "Capital",
+      "Ethiopia Insight",
+      "Ethiopian Business Review",
+      "Ethiopian Monitor",
+      "New Business Ethiopia",
+      "The Reporter"
+    ],
+    "sigma_i": {
+      "Capital": 0.04327198344817626,
+      "Ethiopia Insight": 0.27283564292294443,
+      "Ethiopian Business Review": 0.1653717005851223,
+      "Ethiopian Monitor": 0.029781128804329305,
+      "New Business Ethiopia": 0.0965532008223439,
+      "The Reporter": 0.07093573966221932
+    },
+    "mu": 1.587617615544572,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Gabon": {
+    "keep_sites": [
+      "7joursinfo.com",
+      "AfricaPresse.com",
+      "Africtelegraph",
+      "Direct Infos Gabon",
+      "Gabon Media Time",
+      "Gabonactu.com"
+    ],
+    "sigma_i": {
+      "7joursinfo.com": 0.0035668125884658433,
+      "AfricaPresse.com": 0.0035894510317136426,
+      "Africtelegraph": 0.015043946626801677,
+      "Direct Infos Gabon": 0.007281764481886596,
+      "Gabon Media Time": 0.0008802726687241223,
+      "Gabonactu.com": 0.0023052867412844615
+    },
+    "mu": 0.3176555747583806,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Gambia": {
+    "keep_sites": [
+      "Gambiana",
+      "Kerr Fatou",
+      "The Fatu Network",
+      "The Standard",
+      "Voice Out Digital"
+    ],
+    "sigma_i": {
+      "Gambiana": 0.017141985509578312,
+      "Kerr Fatou": 0.023314129516339238,
+      "The Fatu Network": 0.04141459751519619,
+      "The Standard": 0.0183188002965802,
+      "Voice Out Digital": 0.0462231743928302
+    },
+    "mu": 1.17991943429334,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Ghana": {
+    "keep_sites": [
+      "Adom Online",
+      "Business and Financial Times",
+      "Ghana Business News",
+      "MyNewsGH",
+      "News Ghana",
+      "The Ghana Report"
+    ],
+    "sigma_i": {
+      "Adom Online": 0.008800386629321259,
+      "Business and Financial Times": 0.11731233373309999,
+      "Ghana Business News": 0.0186611154963582,
+      "MyNewsGH": 0.005594307880466633,
+      "News Ghana": 0.04492831460259037,
+      "The Ghana Report": 0.018518852518473773
+    },
+    "mu": 1.7043615442729785,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Guinea": {
+    "keep_sites": [
+      "Africaguinee",
+      "Guine Matin",
+      "Guine News",
+      "Mosaiqueguinee",
+      "VisionGuinee"
+    ],
+    "sigma_i": {
+      "Africaguinee": 0.0052637255216204226,
+      "Guine Matin": 0.0037295709724895513,
+      "Guine News": 0.10308520213906434,
+      "Mosaiqueguinee": 0.0063303687244258295,
+      "VisionGuinee": 0.004092552808370019
+    },
+    "mu": 0.9353613372330011,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Guinea-Bissau": {
+    "keep_sites": [
+      "Agencia de Noticias da Guine",
+      "O Democrata GB"
+    ],
+    "sigma_i": {
+      "Agencia de Noticias da Guine": 0.016105022595769073,
+      "O Democrata GB": 0.11841118853576296
+    },
+    "mu": 0.8506301858709703,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Ivory Coast": {
+    "keep_sites": [
+      "7info",
+      "AIP Agence Ivoirienne de Presse",
+      "Afrique-sur-7",
+      "Connection Ivoirienne"
+    ],
+    "sigma_i": {
+      "7info": 0.007031507150574355,
+      "AIP Agence Ivoirienne de Presse": 0.04452727818189042,
+      "Afrique-sur-7": 0.004137418571636312,
+      "Connection Ivoirienne": 0.010154032885468326
+    },
+    "mu": 1.0250847492925905,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Kenya": {
+    "keep_sites": [
+      "Business Today",
+      "Capital News",
+      "NTV Kenya",
+      "The Kenya Times"
+    ],
+    "sigma_i": {
+      "Business Today": 0.027914497967472612,
+      "Capital News": 0.014565653586185187,
+      "NTV Kenya": 0.013868538556358936,
+      "The Kenya Times": 0.019592645453720605
+    },
+    "mu": 1.5694309037931296,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Lesotho": {
+    "keep_sites": [
+      "Lesotho News Agency (LENA)",
+      "Lesotho Times",
+      "Newsday",
+      "Public Eye",
+      "Sunday Express",
+      "The Reporter Lesotho"
+    ],
+    "sigma_i": {
+      "Lesotho News Agency (LENA)": 0.004867970018977498,
+      "Lesotho Times": 0.03838015049853886,
+      "Newsday": 0.07327617316283228,
+      "Public Eye": 0.05207155537715209,
+      "Sunday Express": 0.03511487480072503,
+      "The Reporter Lesotho": 0.03487217108975096
+    },
+    "mu": 1.0714236243568114,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Liberia": {
+    "keep_sites": [
+      "FrontPage Africa",
+      "GNN Liberia",
+      "Hot Pepper Newspaper",
+      "New Republic Liberia",
+      "The New Dawn"
+    ],
+    "sigma_i": {
+      "FrontPage Africa": 0.022116885256423996,
+      "GNN Liberia": 0.018840788549938432,
+      "Hot Pepper Newspaper": 0.044282333648164245,
+      "New Republic Liberia": 0.03152138775649266,
+      "The New Dawn": 0.01950077789815447
+    },
+    "mu": 2.0776294835613967,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Libya": {
+    "keep_sites": [
+      "Akhbar Libya 24 (  24)",
+      "Ean Libya ( )",
+      "Libya Herald",
+      "Libya Review",
+      "Libyan Express"
+    ],
+    "sigma_i": {
+      "Akhbar Libya 24 (  24)": 0.010815277548625768,
+      "Ean Libya ( )": 0.002977281109893001,
+      "Libya Herald": 0.03257564302238004,
+      "Libya Review": 0.04931614436913617,
+      "Libyan Express": 0.024592009758613125
+    },
+    "mu": 0.911389415298085,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Madagascar": {
+    "keep_sites": [
+      "2424.mg",
+      "MATV",
+      "Madagascar-Tribune",
+      "Midi Madagasikara",
+      "NewsMada"
+    ],
+    "sigma_i": {
+      "2424.mg": 0.00607206077522032,
+      "MATV": 0.009244599023624425,
+      "Madagascar-Tribune": 0.26486709475409,
+      "Midi Madagasikara": 0.007856285308310333,
+      "NewsMada": 0.0013820859508953615
+    },
+    "mu": 0.8681364954867485,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Malawi": {
+    "keep_sites": [
+      "Face of Malawi",
+      "Malawi Nyasa Times",
+      "Malawi Voice",
+      "Malawi24",
+      "Maravi Post",
+      "The Nation"
+    ],
+    "sigma_i": {
+      "Face of Malawi": 0.0037740952940161815,
+      "Malawi Nyasa Times": 0.01648293188313873,
+      "Malawi Voice": 0.015521802956749362,
+      "Malawi24": 0.007453310270449418,
+      "Maravi Post": 0.008726322100994673,
+      "The Nation": 0.018508475014890034
+    },
+    "mu": 1.3733610741289835,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Mali": {
+    "keep_sites": [
+      "Bamada.net",
+      "Mali Actu",
+      "Sahelien.com"
+    ],
+    "sigma_i": {
+      "Bamada.net": 0.0023782346946586157,
+      "Mali Actu": 0.0015521163997412534,
+      "Sahelien.com": 0.0042935206869633095
+    },
+    "mu": 0.7901631941564541,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Mauritania": {
+    "keep_sites": [
+      "AMI Mauritanie",
+      "Alakhbar",
+      "Kassataya",
+      "Sahara Media"
+    ],
+    "sigma_i": {
+      "AMI Mauritanie": 0.0020528621613741015,
+      "Alakhbar": 0.0020025618484396115,
+      "Kassataya": 0.005743034052036972,
+      "Sahara Media": 0.0023538184489363934
+    },
+    "mu": 0.9634309883951306,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Mauritius": {
+    "keep_sites": [
+      "5-Plus Dimanche",
+      "ION News",
+      "Mauritius Times"
+    ],
+    "sigma_i": {
+      "5-Plus Dimanche": 0.02168275761030679,
+      "ION News": 0.09861638011066003,
+      "Mauritius Times": 0.08092147314686815
+    },
+    "mu": 2.69578373480667,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Morocco": {
+    "keep_sites": [
+      "Agadir 24",
+      "Alyaoum 24",
+      "Fs News Media",
+      "Infomdiaire",
+      "Kech 24 (Marrakech)",
+      "Le 7 TV"
+    ],
+    "sigma_i": {
+      "Agadir 24": 0.0044034204389789095,
+      "Alyaoum 24": 0.0019237549403185298,
+      "Fs News Media": 0.0036013661015953354,
+      "Infomdiaire": 0.008387402698137418,
+      "Kech 24 (Marrakech)": 0.0018517606622474867,
+      "Le 7 TV": 0.0008293483777472124
+    },
+    "mu": 0.9418915788553418,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Mozambique": {
+    "keep_sites": [
+      "Carta de Moambique",
+      "Jornal Notcias",
+      "Moz24h",
+      "O Pais",
+      "Verdade"
+    ],
+    "sigma_i": {
+      "Carta de Moambique": 0.036246147711661056,
+      "Jornal Notcias": 0.002636450184793452,
+      "Moz24h": 0.023110655913835054,
+      "O Pais": 0.006575076540554228,
+      "Verdade": 0.011933777464673077
+    },
+    "mu": 1.0040549090860473,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Namibia": {
+    "keep_sites": [
+      "Namibia Economist",
+      "New Era",
+      "The Villager"
+    ],
+    "sigma_i": {
+      "Namibia Economist": 0.023487147538429256,
+      "New Era": 0.011964218711216834,
+      "The Villager": 0.04618545019039286
+    },
+    "mu": 2.0300979298736563,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Niger": {
+    "keep_sites": [
+      "Ar Info Agadez",
+      "Le Sahel",
+      "Niger Express",
+      "Niger Inter"
+    ],
+    "sigma_i": {
+      "Ar Info Agadez": 0.1418037488382949,
+      "Le Sahel": 0.004540510406837421,
+      "Niger Express": 0.03677201338543701,
+      "Niger Inter": 0.035764324852473786
+    },
+    "mu": 0.7513828593853604,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Nigeria": {
+    "keep_sites": [
+      "Business Day",
+      "Daily Times",
+      "Independent",
+      "The Guardian",
+      "The Punch",
+      "ThisDay",
+      "Vanguard"
+    ],
+    "sigma_i": {
+      "Business Day": 0.01803598411898773,
+      "Daily Times": 0.017036657894622474,
+      "Independent": 0.12728604699880333,
+      "The Guardian": 0.010499305619052443,
+      "The Punch": 0.11452030923250482,
+      "ThisDay": 0.09527679702673789,
+      "Vanguard": 0.012068218749184902
+    },
+    "mu": 2.577929098189356,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Rwanda": {
+    "keep_sites": [
+      "KT Press",
+      "Taarifa Rwanda"
+    ],
+    "sigma_i": {
+      "KT Press": 0.02468383432572185,
+      "Taarifa Rwanda": 0.01985679296139571
+    },
+    "mu": 0.9700315727660243,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Sao Tome and Principe": {
+    "keep_sites": [
+      "Jornal Tropical",
+      "STP Digital",
+      "Sao Tome E Principe Press"
+    ],
+    "sigma_i": {
+      "Jornal Tropical": 0.03142696805273544,
+      "STP Digital": 0.07844286436986439,
+      "Sao Tome E Principe Press": 0.026053319482432943
+    },
+    "mu": 0.44087121099827586,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Senegal": {
+    "keep_sites": [
+      "Le Quotidien",
+      "Rewmi",
+      "Sanslimitesn",
+      "SeneNews",
+      "Senegal7"
+    ],
+    "sigma_i": {
+      "Le Quotidien": 0.019429400372755656,
+      "Rewmi": 0.007019466137916722,
+      "Sanslimitesn": 0.0026598594920170227,
+      "SeneNews": 0.002204103084345851,
+      "Senegal7": 0.002354062741385652
+    },
+    "mu": 0.9233440613061112,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Seychelles": {
+    "keep_sites": [
+      "Seychelles Nation Archive",
+      "The Seychelles Times"
+    ],
+    "sigma_i": {
+      "Seychelles Nation Archive": 0.021875209631210247,
+      "The Seychelles Times": 0.009256041165494182
+    },
+    "mu": 1.1847447772731154,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Sierra Leone": {
+    "keep_sites": [
+      "AYV News",
+      "Calabash Newspaper",
+      "Cocorioko",
+      "Premier News",
+      "Sierraloaded"
+    ],
+    "sigma_i": {
+      "AYV News": 0.03626117327404554,
+      "Calabash Newspaper": 0.057602687770856566,
+      "Cocorioko": 0.08504487557321777,
+      "Premier News": 0.06376885157922776,
+      "Sierraloaded": 0.11759468038067761
+    },
+    "mu": 1.3815847068301692,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Somalia": {
+    "keep_sites": [
+      "Caasimada Online",
+      "Horseed Media",
+      "Jowhar News",
+      "Shabelle Media Network",
+      "Somali Guardian"
+    ],
+    "sigma_i": {
+      "Caasimada Online": 0.0031406637040285574,
+      "Horseed Media": 0.040692081495787444,
+      "Jowhar News": 0.04278852700720652,
+      "Shabelle Media Network": 0.003803830363895189,
+      "Somali Guardian": 0.010673918898237638
+    },
+    "mu": 0.3883696384641069,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "South Africa": {
+    "keep_sites": [
+      "Mail & Guardian",
+      "SA People",
+      "SABC News (public broadcaster)",
+      "The Citizen",
+      "The South African"
+    ],
+    "sigma_i": {
+      "Mail & Guardian": 0.033541573414843755,
+      "SA People": 0.018701641171676723,
+      "SABC News (public broadcaster)": 0.034900422793548325,
+      "The Citizen": 0.019342293128413544,
+      "The South African": 0.017583362635381978
+    },
+    "mu": 1.7573771710150459,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "South Sudan": {
+    "keep_sites": [
+      "Eye Radio News",
+      "No. 1 Citizen Daily Newspaper",
+      "Radio Tamazuj",
+      "South Sudan News Agency",
+      "The City Review"
+    ],
+    "sigma_i": {
+      "Eye Radio News": 0.01802095945960857,
+      "No. 1 Citizen Daily Newspaper": 0.02961793825766861,
+      "Radio Tamazuj": 0.021977920786534516,
+      "South Sudan News Agency": 0.1595068569064302,
+      "The City Review": 0.04951188998962055
+    },
+    "mu": 0.9568791932438919,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Sudan": {
+    "keep_sites": [
+      "Al-Nilin",
+      "Al-Rukoba",
+      "Al-Taghyeer",
+      "Radio Dabanga",
+      "Sudanile"
+    ],
+    "sigma_i": {
+      "Al-Nilin": 0.002140072502168615,
+      "Al-Rukoba": 0.0047564846446860294,
+      "Al-Taghyeer": 0.007868910962701831,
+      "Radio Dabanga": 0.03266915666822091,
+      "Sudanile": 0.017257843362242724
+    },
+    "mu": 1.3495465803080517,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Tanzania": {
+    "keep_sites": [
+      "Daily News",
+      "Habari Leo",
+      "Jamhuri"
+    ],
+    "sigma_i": {
+      "Daily News": 0.03342924423590028,
+      "Habari Leo": 0.004841193705703846,
+      "Jamhuri": 0.05025602972997963
+    },
+    "mu": 1.2551995516849768,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Togo": {
+    "keep_sites": [
+      "Journal du Togo",
+      "La Depeche",
+      "Togo Actualites"
+    ],
+    "sigma_i": {
+      "Journal du Togo": 0.009173908279628929,
+      "La Depeche": 0.04696732638779101,
+      "Togo Actualites": 0.05741759663604394
+    },
+    "mu": 0.6056091214082553,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Tunisia": {
+    "keep_sites": [
+      "African Manager",
+      "Essahafa",
+      "Kapitalis",
+      "Ralits",
+      "Webdo"
+    ],
+    "sigma_i": {
+      "African Manager": 0.0067571939728879,
+      "Essahafa": 0.0066401817422253795,
+      "Kapitalis": 0.008841846078960105,
+      "Ralits": 0.006308057246591777,
+      "Webdo": 0.005295376514612759
+    },
+    "mu": 1.8065233454075256,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Uganda": {
+    "keep_sites": [
+      "Chimp Reports",
+      "The Independent",
+      "The Insider",
+      "Tower Post",
+      "Trumpet News",
+      "Watchdog Uganda"
+    ],
+    "sigma_i": {
+      "Chimp Reports": 0.013976050188668206,
+      "The Independent": 0.03227708795776946,
+      "The Insider": 0.05275310595981232,
+      "Tower Post": 0.018293061145469268,
+      "Trumpet News": 0.029376074549208573,
+      "Watchdog Uganda": 0.0199781105736192
+    },
+    "mu": 1.37498903994457,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Zambia": {
+    "keep_sites": [
+      "Lusaka Times"
+    ],
+    "sigma_i": {
+      "Lusaka Times": 0.026085915930864716
+    },
+    "mu": 1.549342531776683,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  },
+  "Zimbabwe": {
+    "keep_sites": [
+      "New Zimbabwe",
+      "The Zimbabwean",
+      "ZBC News Online",
+      "ZimEye",
+      "ZimLive",
+      "ZwNews",
+      "iHarare"
+    ],
+    "sigma_i": {
+      "New Zimbabwe": 0.021150642803742657,
+      "The Zimbabwean": 0.0572696215284397,
+      "ZBC News Online": 0.01062105943082738,
+      "ZimEye": 0.019003578105814073,
+      "ZimLive": 0.057389042808001695,
+      "ZwNews": 0.01751133623272681,
+      "iHarare": 0.015968384459894784
+    },
+    "mu": 1.9676926891131739,
+    "calibration_start_ym": "2015-01",
+    "calibration_end_ym": "2025-12"
+  }
+}
